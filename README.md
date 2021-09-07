@@ -1,2 +1,2 @@
-# CKC-
-PHP Framework
+# CKC- PHP Framework
+mini PHP Framework
